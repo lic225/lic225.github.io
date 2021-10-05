@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /
 redirect_from:
@@ -16,11 +16,11 @@ I work on designing provably fast algorithms and data structures, with a focus o
 
 * **$$\ell_2$$-norm Flow Diffusion in Near-Linear Time**, FOCS 2021  
   *Li Chen*, Richard Peng, Di Wang  
-  [arxiv](https://arxiv.org/abs/2105.14629)
+  [arXiv](https://arxiv.org/abs/2105.14629)
 
 * **Fast Dynamic Cuts, Distances and Effective Resistances via Vertex Sparsifiers**, FOCS 2020  
   *Li Chen*, Gramoz Goranci, Monika Henzinger, Richard Peng and Thatchaphol Saranurak  
-  [arxiv](https://arxiv.org/abs/2005.02368)
+  [Proceeding](https://ieeexplore.ieee.org/abstract/document/9317991) [arXiv](https://arxiv.org/abs/2005.02368)
 
 ## Contact
 
