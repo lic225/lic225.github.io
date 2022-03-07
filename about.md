@@ -18,13 +18,17 @@ I work on provably fast algorithms and data structures, with a focus on handling
 
 ### Publications ([Google Scholar](https://scholar.google.com.tw/citations?user=Xeri3k0AAAAJ&hl=en))
 
+* Maximum Flow and Minimum-Cost Flow in Almost-Linear Time, manuscript  
+  *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, and Sushant Sachdeva  
+  [arXiv](https://arxiv.org/abs/2203.00671)
+
 * **$$\ell_2$$-norm Flow Diffusion in Near-Linear Time**, FOCS 2021  
-  *Li Chen*, Richard Peng, Di Wang  
-  [arXiv](https://arxiv.org/abs/2105.14629)
+  *Li Chen*, Richard Peng, and Di Wang  
+  [Proceeding](https://ieeexplore.ieee.org/abstract/document/9719724)&emsp;[arXiv](https://arxiv.org/abs/2105.14629)&emsp;[Video](https://youtu.be/6sf1UQCd-6Y)
 
 * **Fast Dynamic Cuts, Distances and Effective Resistances via Vertex Sparsifiers**, FOCS 2020  
-  *Li Chen*, Gramoz Goranci, Monika Henzinger, Richard Peng and Thatchaphol Saranurak  
-  [Proceeding](https://ieeexplore.ieee.org/abstract/document/9317991) [arXiv](https://arxiv.org/abs/2005.02368) [Video by Gramoz](https://youtu.be/RbjBt-CvE1I)
+  *Li Chen*, Gramoz Goranci, Monika Henzinger, Richard Peng, and Thatchaphol Saranurak  
+  [Proceeding](https://ieeexplore.ieee.org/abstract/document/9317991)&emsp; [arXiv](https://arxiv.org/abs/2005.02368)&emsp;[Video by Gramoz](https://youtu.be/RbjBt-CvE1I)
 
 ### Contact
 
