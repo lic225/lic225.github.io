@@ -18,7 +18,7 @@ I work on provably fast algorithms and data structures, with a focus on handling
 
 ### Publications ([Google Scholar](https://scholar.google.com.tw/citations?user=Xeri3k0AAAAJ&hl=en))
 
-* Maximum Flow and Minimum-Cost Flow in Almost-Linear Time, manuscript  
+* **Maximum Flow and Minimum-Cost Flow in Almost-Linear Time**, manuscript  
   *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, and Sushant Sachdeva  
   [arXiv](https://arxiv.org/abs/2203.00671)
 
