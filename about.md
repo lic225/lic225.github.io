@@ -12,7 +12,7 @@ I work on provably fast algorithms and data structures, with a focus on handling
 <!--My research interests are in the design, analysis, and implementation of efficient algorithms, with a focus on algorithms and data structures for handling large graphs and networks.-->
 
 
-[[CV]]({{ site.url }}/cv.pdf) (Last updated Oct. 2021)
+[[CV]]({{ site.url }}/cv.pdf) (Last updated Apr. 2022)
 
 
 
