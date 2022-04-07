@@ -33,4 +33,5 @@ I work on provably fast algorithms and data structures, with a focus on handling
 ### Contact
 
 pronounce: he / him  
-email: first + last name at gatech dot edu
+email: first + last name at gatech dot edu  
+twitter: [@lichen225](https://twitter.com/lichen225)
