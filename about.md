@@ -12,15 +12,15 @@ I work on provably fast algorithms and data structures, with a focus on handling
 <!--My research interests are in the design, analysis, and implementation of efficient algorithms, with a focus on algorithms and data structures for handling large graphs and networks.-->
 
 
-[[CV]]({{ site.url }}/cv.pdf) (Last updated Apr. 2022)
+[[CV]]({{ site.url }}/cv.pdf) (Last updated Jul. 2022)
 
 
 
 ### Publications ([Google Scholar](https://scholar.google.com.tw/citations?user=Xeri3k0AAAAJ&hl=en))
 
-* **Maximum Flow and Minimum-Cost Flow in Almost-Linear Time**, manuscript  
+* **Maximum Flow and Minimum-Cost Flow in Almost-Linear Time**, FOCS 2022  
   *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, and Sushant Sachdeva  
-  [arXiv](https://arxiv.org/abs/2203.00671)
+  [arXiv](https://arxiv.org/abs/2203.00671)&emsp;[Article on Quanta](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
 
 * **$$\ell_2$$-norm Flow Diffusion in Near-Linear Time**, FOCS 2021  
   *Li Chen*, Richard Peng, and Di Wang  
@@ -28,7 +28,7 @@ I work on provably fast algorithms and data structures, with a focus on handling
 
 * **Fast Dynamic Cuts, Distances and Effective Resistances via Vertex Sparsifiers**, FOCS 2020  
   *Li Chen*, Gramoz Goranci, Monika Henzinger, Richard Peng, and Thatchaphol Saranurak  
-  [Proceeding](https://ieeexplore.ieee.org/abstract/document/9317991)&emsp; [arXiv](https://arxiv.org/abs/2005.02368)&emsp;[Video by Gramoz](https://youtu.be/RbjBt-CvE1I)
+  [Proceeding](https://ieeexplore.ieee.org/abstract/document/9317991)&emsp;[arXiv](https://arxiv.org/abs/2005.02368)&emsp;[Video by Gramoz](https://youtu.be/RbjBt-CvE1I)
 
 ### Contact
 
