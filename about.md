@@ -17,6 +17,10 @@ I work on provably fast algorithms and data structures, with a focus on handling
 
 ### Publications ([Google Scholar](https://scholar.google.com.tw/citations?user=Xeri3k0AAAAJ&hl=en))
 
+* **Exponential Convergence of Sinkhorn Under Regularization Scheduling**  
+  Jingbang Chen, *Li Chen*, Yang P. Liu, Richard Peng, Arvind Ramaswami  
+  ACDA 2023
+
 * **On the Power of Learning-Augmented BSTs**  
   Jingbang Chen, *Li Chen*  
   [arXiv](https://arxiv.org/abs/2211.09251)
