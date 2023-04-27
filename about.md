@@ -21,17 +21,9 @@ I work on provably fast algorithms and data structures, with a focus on handling
   Jingbang Chen, *Li Chen*, Yang P. Liu, Richard Peng, Arvind Ramaswami  
   ACDA 2023&emsp;[arXiv](https://arxiv.org/abs/2207.00736)
 
-* **On the Power of Learning-Augmented BSTs**  
-  Jingbang Chen, *Li Chen*  
-  [arXiv](https://arxiv.org/abs/2211.09251)
-
 * **A Simple Framework for Finding Balanced Sparse Cuts via APSP**  
   *Li Chen*, Rasmus Kyng, Maximilian Probst Gutenberg, Sushant Sachdeva  
   SOSA 2023&emsp;[Proceeding](https://epubs.siam.org/doi/abs/10.1137/1.9781611977585.ch5)&emsp;[arXiv](https://arxiv.org/abs/2209.08845)
-
-* **Minimum Coverage Instrumentation**  
-  *Li Chen*, Ellis Hoag, Kyungwoo Lee, Julian Mestre, Sergey Pupyrev  
-  [arXiv](https://arxiv.org/abs/2208.13907)
 
 * **Maximum Flow and Minimum-Cost Flow in Almost-Linear Time**  
   *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva  
@@ -45,6 +37,20 @@ I work on provably fast algorithms and data structures, with a focus on handling
 * **Fast Dynamic Cuts, Distances and Effective Resistances via Vertex Sparsifiers**  
   *Li Chen*, Gramoz Goranci, Monika Henzinger, Richard Peng, Thatchaphol Saranurak  
   FOCS 2020&emsp;[Proceeding](https://ieeexplore.ieee.org/abstract/document/9317991)&emsp;[arXiv](https://arxiv.org/abs/2005.02368)&emsp;[Video by Gramoz](https://youtu.be/RbjBt-CvE1I)
+
+### Manuscripts
+
+* **High-Accuracy Multicommodity Flows via Iterative Refinement**  
+  *Li Chen*, Mingquan Ye  
+  [arXiv](https://arxiv.org/abs/2304.11252)
+
+* **On the Power of Learning-Augmented BSTs**  
+  Jingbang Chen, *Li Chen*  
+  [arXiv](https://arxiv.org/abs/2211.09251)
+
+* **Minimum Coverage Instrumentation**  
+  *Li Chen*, Ellis Hoag, Kyungwoo Lee, Julian Mestre, Sergey Pupyrev  
+  [arXiv](https://arxiv.org/abs/2208.13907)
 
 ### Contact
 
