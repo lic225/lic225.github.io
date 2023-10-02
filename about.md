@@ -7,19 +7,20 @@ redirect_from:
 ---
 
 ![me]({{ site.url }}/me_2020.jpeg){:style="float: right;margin-left: 7px; height="30%" width="30%""}
-I am Li Chen (陳力), a final-year PhD student at Georgia Tech advised by [Richard Peng](https://www.cc.gatech.edu/~rpeng/index.html).
-I work on provably fast algorithms and data structures based on graph theory, convex optimization, and numerical linear algebra.
+I am Li Chen (陳力), a final-year PhD student at Georgia Tech advised by [Richard Peng](https://www.cs.cmu.edu/~yangp/).
+I work on provably fast algorithms and data structures for optimization and machine learning.
+<!--based on graph theory, convex optimization, and numerical linear algebra.-->
 <!--My research interests are in the design, analysis, and implementation of efficient algorithms, with a focus on algorithms and data structures for handling large graphs and networks.-->
 
 
-[[CV]]({{ site.url }}/cv.pdf) (Last updated Nov. 2022)
+[[CV]]({{ site.url }}/cv.pdf) (Last updated Sep. 2023)
 
 
 ### Publications ([Google Scholar](https://scholar.google.com.tw/citations?user=Xeri3k0AAAAJ&hl=en))
 
 * **A Deterministic Almost-Linear Time Algorithm for Minimum-Cost Flow**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva, Aaron Sidford  
-  FOCS 2023
+  FOCS 2023&emsp;[arXiv](https://arxiv.org/abs/2309.16629)
 
 * **Exponential Convergence of Sinkhorn Under Regularization Scheduling**  
   Jingbang Chen, *Li Chen*, Yang P. Liu, Richard Peng, Arvind Ramaswami  
@@ -48,8 +49,8 @@ I work on provably fast algorithms and data structures based on graph theory, co
   *Li Chen*, Mingquan Ye  
   [arXiv](https://arxiv.org/abs/2304.11252)
 
-* **On the Power of Learning-Augmented BSTs**  
-  Jingbang Chen, *Li Chen*  
+* **Learning-Augmented B-Trees**  
+  Xinyuan Cao, Jingbang Chen, *Li Chen*, Chris Lambert, Richard Peng, Daniel Sleator  
   [arXiv](https://arxiv.org/abs/2211.09251)
 
 * **Minimum Coverage Instrumentation**  
@@ -59,5 +60,5 @@ I work on provably fast algorithms and data structures based on graph theory, co
 ### Contact
 
 pronounce: he / him  
-email: first + last name at gatech dot edu  
+email: lichenntu at gmail dot com  
 twitter: [@lichen225](https://twitter.com/lichen225)
