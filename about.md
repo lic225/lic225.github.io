@@ -7,7 +7,8 @@ redirect_from:
 ---
 
 ![me]({{ site.url }}/me_2020.jpeg){:style="float: right;margin-left: 7px; height="30%" width="30%""}
-I am Li Chen (陳力), a final-year PhD student at Georgia Tech advised by [Richard Peng](https://www.cs.cmu.edu/~yangp/).
+I am Li Chen (陳力), a postdoc at Carnegie Mellon University.
+I completed my PhD at Georgia Tech in summer 2023, where I was advised by [Richard Peng](https://www.cs.cmu.edu/~yangp/).
 I work on provably fast algorithms and data structures for optimization and machine learning.
 <!--based on graph theory, convex optimization, and numerical linear algebra.-->
 <!--My research interests are in the design, analysis, and implementation of efficient algorithms, with a focus on algorithms and data structures for handling large graphs and networks.-->
@@ -17,6 +18,10 @@ I work on provably fast algorithms and data structures for optimization and mach
 
 
 ### Publications ([Google Scholar](https://scholar.google.com.tw/citations?user=Xeri3k0AAAAJ&hl=en))
+
+* **Incremental Approximate Maximum Flow on Undirected Graphs in Subpolynomial Update Time**  
+  Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva, Aaron Sidford  
+  SODA 2024
 
 * **A Deterministic Almost-Linear Time Algorithm for Minimum-Cost Flow**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva, Aaron Sidford  
