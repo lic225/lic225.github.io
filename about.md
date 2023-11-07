@@ -21,7 +21,7 @@ I work on provably fast algorithms and data structures for optimization and mach
 
 * **Incremental Approximate Maximum Flow on Undirected Graphs in Subpolynomial Update Time**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva, Aaron Sidford  
-  SODA 2024
+  SODA 2024&emsp;[arXiv](https://arxiv.org/abs/2311.03174)
 
 * **A Deterministic Almost-Linear Time Algorithm for Minimum-Cost Flow**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva, Aaron Sidford  
