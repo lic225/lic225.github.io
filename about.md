@@ -25,7 +25,7 @@ I work on provably fast algorithms and data structures for optimization and mach
 
 * **A Deterministic Almost-Linear Time Algorithm for Minimum-Cost Flow**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva, Aaron Sidford  
-  FOCS 2023&emsp;[arXiv](https://arxiv.org/abs/2309.16629)
+  FOCS 2023&emsp;[arXiv](https://arxiv.org/abs/2309.16629)&emsp;[Slides]({{ site.url }}/det_maxflow_FOCS23_slide.pdf)
 
 * **Exponential Convergence of Sinkhorn Under Regularization Scheduling**  
   Jingbang Chen, *Li Chen*, Yang P. Liu, Richard Peng, Arvind Ramaswami  
@@ -33,16 +33,16 @@ I work on provably fast algorithms and data structures for optimization and mach
 
 * **A Simple Framework for Finding Balanced Sparse Cuts via APSP**  
   *Li Chen*, Rasmus Kyng, Maximilian Probst Gutenberg, Sushant Sachdeva  
-  SOSA 2023&emsp;[Proceeding](https://epubs.siam.org/doi/abs/10.1137/1.9781611977585.ch5)&emsp;[arXiv](https://arxiv.org/abs/2209.08845)
+  SOSA 2023&emsp;[Proceeding](https://epubs.siam.org/doi/abs/10.1137/1.9781611977585.ch5)&emsp;[arXiv](https://arxiv.org/abs/2209.08845)&emsp;[Slides]({{ site.url }}/balance_cut_SP_SOSA23_slide.pdf)
 
 * **Maximum Flow and Minimum-Cost Flow in Almost-Linear Time**  
   *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva  
   <strong style="color:red">Best Paper Award</strong>  
-  FOCS 2022&emsp;[Proceeding](https://ieeexplore.ieee.org/document/9996881)&emsp;[arXiv](https://arxiv.org/abs/2203.00671)&emsp;[Article on Quanta](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
+  FOCS 2022&emsp;[Proceeding](https://ieeexplore.ieee.org/document/9996881)&emsp;[arXiv](https://arxiv.org/abs/2203.00671)&emsp;[Slides]({{ site.url }}/maxflow_FOCS22_slide.pdf)&emsp;[Article on Quanta](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
 
 * **$$\ell_2$$-norm Flow Diffusion in Near-Linear Time**  
   *Li Chen*, Richard Peng, Di Wang  
-  FOCS 2021&emsp;[Proceeding](https://ieeexplore.ieee.org/abstract/document/9719724)&emsp;[arXiv](https://arxiv.org/abs/2105.14629)&emsp;[Video](https://youtu.be/6sf1UQCd-6Y)
+  FOCS 2021&emsp;[Proceeding](https://ieeexplore.ieee.org/abstract/document/9719724)&emsp;[arXiv](https://arxiv.org/abs/2105.14629)&emsp;[Slides]({{ site.url }}/L2_diffusion_FOCS21_slide.pdf)&emsp;[Video](https://youtu.be/6sf1UQCd-6Y)
 
 * **Fast Dynamic Cuts, Distances and Effective Resistances via Vertex Sparsifiers**  
   *Li Chen*, Gramoz Goranci, Monika Henzinger, Richard Peng, Thatchaphol Saranurak  
