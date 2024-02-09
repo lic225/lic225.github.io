@@ -14,14 +14,14 @@ I work on provably fast algorithms and data structures for optimization and mach
 <!--My research interests are in the design, analysis, and implementation of efficient algorithms, with a focus on algorithms and data structures for handling large graphs and networks.-->
 
 
-[[CV]]({{ site.url }}/cv.pdf) (Last updated Sep. 2023)
+[[CV]]({{ site.url }}/cv.pdf) (Last updated Feb. 2024)
 
 
 ### Publications ([Google Scholar](https://scholar.google.com.tw/citations?user=Xeri3k0AAAAJ&hl=en))
 
 * **Almost-Linear Time Algorithms for Incremental Graphs: Cycle Detection, SCCs, s-t Shortest Path, and Minimum-Cost Flow**  
   *Li Chen*, Rasmus Kyng, Yang P. Liu, Simon Meierhans, Maximilian Probst Gutenberg  
-  [arXiv](https://arxiv.org/abs/2311.18295)
+  STOC 2024&emsp;[arXiv](https://arxiv.org/abs/2311.18295)
 
 * **Incremental Approximate Maximum Flow on Undirected Graphs in Subpolynomial Update Time**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva, Aaron Sidford  
