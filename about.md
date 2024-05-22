@@ -69,10 +69,11 @@ My research interests are provably fast algorithms and data structures for optim
 
 ### Misc
 
-Pravin M. Vaidya has written some of the most inspiring papers of our field.
-I am collecting all his papers and [here]({{ site.url }}/vaidya) is what I have found so far.
-It has all the conference publications up to 1990 and their journal version.
-The rest is still work in progress.
+Pravin M. Vaidya has written some of the most inspiring papers in our field.
+I am collecting all his papers, and [here]({{ site.url }}/vaidya) is what I have found so far.
+It includes all the conference publications up to 1990 and their journal versions.
+The rest is still a work in progress.
+
 
 ### Contact
 

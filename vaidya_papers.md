@@ -34,7 +34,7 @@ redirect_from:
 
 * **Sublinear-Time Parallel Algorithms for Matching and Related Problems**  
   Andrew V. Goldberg, Serge A. Plotkin, Pravin M. Vaidya  
-  [FOCS '88]({{ site.url }}/vaidya/parallel_matching_FOCS88.pdf)
+  [FOCS '88]({{ site.url }}/vaidya/parallel_matching_FOCS88.pdf)&emsp;[JALG '93]({{ site.url }}/vaidya/parallel_matching_JALG93.pdf)
 
 * **Geometry Helps in Matching**  
   Pravin M. Vaidya  
@@ -54,7 +54,7 @@ redirect_from:
 
 * **Fast Algorithms for Convex Quadratic Programming and Multicommodity Flows**  
   Sanjiv Kapoor, Pravin M. Vaidya  
-  [STOC '86]({{ site.url }}/vaidya/kcomm_flow_STOC86.pdf)
+  [STOC '86]({{ site.url }}/vaidya/kcomm_flow_STOC86.pdf)&emsp;[MP '96]({{ site.url }}/vaidya/kcomm_flow_MP96.pdf)
 
 * **Space-Time Trade-Offs for Orthogonal Range Queries**  
   Pravin M. Vaidya  
