@@ -1,15 +1,16 @@
 ---
 layout: default
-title: About
+title: Li Chen
 permalink: /
 redirect_from:
   - /about
 ---
 
 ![me]({{ site.url }}/me_2020.jpeg){:style="float: right;margin-left: 7px; height="30%" width="30%""}
-I am Li Chen (陳力), a postdoc at Carnegie Mellon University.
+My name is Li Chen (陳力).
+I was a postdoc at Carnegie Mellon University from 2023 to 2024.
 I completed my PhD at Georgia Tech in summer 2023, where I was advised by [Richard Peng](https://www.cs.cmu.edu/~yangp/).
-I work on provably fast algorithms and data structures for optimization and machine learning.
+My research interests are provably fast algorithms and data structures for optimization and machine learning.
 <!--based on graph theory, convex optimization, and numerical linear algebra.-->
 <!--My research interests are in the design, analysis, and implementation of efficient algorithms, with a focus on algorithms and data structures for handling large graphs and networks.-->
 

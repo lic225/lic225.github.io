@@ -8,6 +8,10 @@ redirect_from:
 
 ### Some of Pravin M. Vaidya's Publications ([dblp](https://dblp.org/pid/20/5362.html))
 
+* **Solving linear equations with symmetric diagonally dominant matrices by constructing good preconditioners**  
+  Pravin M. Vaidya  
+  Unpublished manuscript
+
 * **Reducing the Parallel Complexity of Certain Linear Programming Problems**  
   Pravin M. Vaidya  
   [FOCS '90]({{ site.url }}/vaidya/para_LP_FOCS90.pdf)
