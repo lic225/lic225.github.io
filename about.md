@@ -19,21 +19,21 @@ I work on provably fast algorithms and data structures for optimization and mach
 
 ### Publications ([Google Scholar](https://scholar.google.com.tw/citations?user=Xeri3k0AAAAJ&hl=en))
 
+* **High-Accuracy Multicommodity Flows via Iterative Refinement**  
+  *Li Chen*, Mingquan Ye  
+  ICALP 2024&emsp;[arXiv](https://arxiv.org/abs/2304.11252)
+
 * **Almost-Linear Time Algorithms for Incremental Graphs: Cycle Detection, SCCs, s-t Shortest Path, and Minimum-Cost Flow**  
   *Li Chen*, Rasmus Kyng, Yang P. Liu, Simon Meierhans, Maximilian Probst Gutenberg  
   STOC 2024&emsp;[arXiv](https://arxiv.org/abs/2311.18295)
 
 * **Incremental Approximate Maximum Flow on Undirected Graphs in Subpolynomial Update Time**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva, Aaron Sidford  
-  SODA 2024&emsp;[arXiv](https://arxiv.org/abs/2311.03174)
+  SODA 2024&emsp;[arXiv](https://arxiv.org/abs/2311.03174)&emsp;[Slides]({{ site.url }}/incrflow_SODA24_slide.pdf)
 
 * **A Deterministic Almost-Linear Time Algorithm for Minimum-Cost Flow**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva, Aaron Sidford  
   FOCS 2023&emsp;[arXiv](https://arxiv.org/abs/2309.16629)&emsp;[Slides]({{ site.url }}/det_maxflow_FOCS23_slide.pdf)
-
-* **High-Accuracy Multicommodity Flows via Iterative Refinement**  
-  *Li Chen*, Mingquan Ye  
-  [arXiv](https://arxiv.org/abs/2304.11252)
 
 * **Learning-Augmented B-Trees**  
   Xinyuan Cao, Jingbang Chen, *Li Chen*, Chris Lambert, Richard Peng, Daniel Sleator  
@@ -65,6 +65,13 @@ I work on provably fast algorithms and data structures for optimization and mach
   FOCS 2020&emsp;[Proceeding](https://ieeexplore.ieee.org/abstract/document/9317991)&emsp;[arXiv](https://arxiv.org/abs/2005.02368)&emsp;[Video by Gramoz](https://youtu.be/RbjBt-CvE1I)
 
 <!--### Manuscripts-->
+
+### Misc
+
+Pravin M. Vaidya has written some of the most inspiring papers of our field.
+I am collecting all his papers and [here]({{ site.url }}/vaidya) is what I have found so far.
+It has all the conference publications up to 1990 and their journal version.
+The rest is still work in progress.
 
 ### Contact
 
