@@ -22,7 +22,7 @@ My research interests are provably fast algorithms and data structures for optim
 
 * **Almost-Linear Time Algorithms for Decremental Graphs: Min-Cost Flow and More via Duality**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Simon Meierhans, Maximilian Probst Gutenberg, Sushant Sachdeva  
-  FOCS 2024
+  FOCS 2024&emsp;[arXiv](https://arxiv.org/abs/2407.10830)&emsp;[Slides]({{ site.url }}/decrflow_Stanford_slide.pdf)
 
 * **High-Accuracy Multicommodity Flows via Iterative Refinement**  
   *Li Chen*, Mingquan Ye  
