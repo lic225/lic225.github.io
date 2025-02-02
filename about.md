@@ -20,8 +20,8 @@ My research interests are provably fast algorithms and data structures for optim
 
 ### Publications ([Google Scholar](https://scholar.google.com.tw/citations?user=Xeri3k0AAAAJ&hl=en))
 
-* **Accelerated Optimization of Approximate Multi-Commodity Flows on Directed Graphs**
-  *Li Chen*, Andrei Graur, Aaron Sidford
+* **Accelerated Optimization of Approximate Multi-Commodity Flows on Directed Graphs**  
+  *Li Chen*, Andrei Graur, Aaron Sidford  
   STOC 2025
 
 * **Almost-Linear Time Algorithms for Decremental Graphs: Min-Cost Flow and More via Duality**  
