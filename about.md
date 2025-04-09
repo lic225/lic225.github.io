@@ -22,7 +22,7 @@ My research interests are provably fast algorithms and data structures for optim
 
 * **Accelerated Optimization of Approximate Multi-Commodity Flows on Directed Graphs**  
   *Li Chen*, Andrei Graur, Aaron Sidford  
-  STOC 2025
+  STOC 2025&emsp;[arXiv](https://arxiv.org/abs/2503.24373)
 
 * **Almost-Linear Time Algorithms for Decremental Graphs: Min-Cost Flow and More via Duality**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Simon Meierhans, Maximilian Probst Gutenberg, Sushant Sachdeva  
