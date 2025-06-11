@@ -10,15 +10,17 @@ redirect_from:
 My name is Li Chen (陳力).
 I was a postdoc at Carnegie Mellon University from 2023 to 2024.
 I completed my PhD at Georgia Tech in summer 2023, where I was advised by [Richard Peng](https://www.cs.cmu.edu/~yangp/).
-My research interests are provably fast algorithms and data structures for optimization and machine learning.
-<!--based on graph theory, convex optimization, and numerical linear algebra.-->
-<!--My research interests are in the design, analysis, and implementation of efficient algorithms, with a focus on algorithms and data structures for handling large graphs and networks.-->
+My research interests are provably fast algorithms and data structures.
 
 
 [[CV]]({{ site.url }}/cv.pdf) (Last updated Feb. 2024)
 
 
 ### Publications ([Google Scholar](https://scholar.google.com.tw/citations?user=Xeri3k0AAAAJ&hl=en))
+
+* **On the Power of Learning-Augmented Search Trees**  
+  Jingbang Chen, Xinyuan Cao, Alicia Stepin, *Li Chen*  
+  ICML 2025&emsp;[arXiv](https://arxiv.org/abs/2211.09251)
 
 * **Accelerated Optimization of Approximate Multi-Commodity Flows on Directed Graphs**  
   *Li Chen*, Andrei Graur, Aaron Sidford  
@@ -43,10 +45,6 @@ My research interests are provably fast algorithms and data structures for optim
 * **A Deterministic Almost-Linear Time Algorithm for Minimum-Cost Flow**  
   Jan van den Brand, *Li Chen*, Rasmus Kyng, Yang P. Liu, Richard Peng, Maximilian Probst Gutenberg, Sushant Sachdeva, Aaron Sidford  
   FOCS 2023&emsp;[arXiv](https://arxiv.org/abs/2309.16629)&emsp;[Slides]({{ site.url }}/det_maxflow_FOCS23_slide.pdf)
-
-* **Learning-Augmented B-Trees**  
-  Xinyuan Cao, Jingbang Chen, *Li Chen*, Chris Lambert, Richard Peng, Daniel Sleator  
-  [arXiv](https://arxiv.org/abs/2211.09251)
 
 * **Minimum Coverage Instrumentation**  
   *Li Chen*, Ellis Hoag, Kyungwoo Lee, Julian Mestre, Sergey Pupyrev  
